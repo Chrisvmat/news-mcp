@@ -1,4 +1,4 @@
-# 📰 news-mcp
+# 📰 News-MCP
 
 A lightweight [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server that brings real-time news into Claude Desktop via RSS feeds — no API key required.
 
@@ -6,7 +6,7 @@ Pulls live headlines from **BBC News**, **CNN**, and **Indian Express** with sup
 
 ---
 
-## ✨ Features
+## Features
 
 - 🔴 **Live RSS feeds** — no API key, no rate limits, no cost
 - 🌍 **3 major sources** — BBC News, CNN, Indian Express
